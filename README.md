@@ -7,7 +7,7 @@
  ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ╚══════╝  ╚═╝ ╚══════╝ ╚══╡╚══╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-# 👋 Welcome to My Digital Playground!
+# 👋 Welcome to this DigitalVerse!
 
 
 I'm **Sagar Silwal**, a passionate **System & Network Engineer** & **FullStack Developer** from **Godawari-3, Lalitpur** 🇳🇵
@@ -22,8 +22,8 @@ I'm **Sagar Silwal**, a passionate **System & Network Engineer** & **FullStack D
 const sagar = {
   location: "Godawari-03,Lalitpur, Nepal📍",
   passion: "Building elegant solutions to complex problems 💡",
-  currentFocus: "Full-Stack Web Development & Open Source",
-  favoriteQuote: "Make it work, make it right, make it fast ⚡",
+  currentFocus: "Linux Servers ,Networks & Applications",
+  favoriteQuote: "A Lion Doesn't stop Hunting Until it Does the hunting",
   coffeeConsumption: "Directly proportional to code quality ☕"
 };
 ```
@@ -52,22 +52,14 @@ const sagar = {
 ### ☁️ Deployment & Services
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silwalsagars4&show_icons=true&theme=radical&hide_border=true" alt="Sagar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwalsagars4&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ## 🎯 What I'm Doing Right Now
 
-- 🔨 Building scalable web applications with **React** & **Node.js**
-- 📚 Deepening my knowledge in **Docker** & **DevOps**
+- 🔨 Building scalable web applications with **React** & **Python**
+- 📚 Deepening my knowledge in **Docker**, **K8s** & **DevOps**
 - 🌐 Working on full-stack projects with modern tech stack
 - 💬 Open to collaborations and exciting projects
 - 🎓 Continuously learning and improving my craft
@@ -79,18 +71,17 @@ const sagar = {
 > ✨ Check out my repositories below for more amazing stuff!
 
 - **Portfolio Website** - A modern, responsive portfolio showcasing my projects
-- **MERN Stack Apps** - Full-stack applications with MongoDB, Express, React, Node.js
-- **Open Source Contributions** - Contributing to the community
+- **Smart Logs Monitoring System** - A Centrilizen Log monitoring for Linux & Windows Server With Integrated Machine Learning for Log Analysis and React BAsed Dashboard
 
 ---
 
 ## 🤝 Let's Connect!
 
 ```
-📧 Email:    [Your Email]
-🔗 LinkedIn: linkedin.com/in/silwalsagar
-🐦 Twitter:  @silwalsagar
-💼 Portfolio: [Your Portfolio URL]
+📧 Email:    silwalsagars4@gmail.com
+🔗 LinkedIn: linkedin.com/in/silwalsagar1
+🐦 Instagram:  @ssg.grr__
+💼 Portfolio: www.silwalsagar.com.np
 ```
 
 ---
@@ -130,4 +121,4 @@ const sagar = {
 
 ---
 
-*Last updated: May 2026 | Made with 💝 by Sagar Silwal*
+* By Myself:  Sagar Silwal*

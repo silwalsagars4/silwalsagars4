@@ -1,16 +1,16 @@
 ```
- ███████╗ █████╗  ██████╗  █████╗ ██████╗       ███████╗ ║██╗   ██╗     ██╗    ██╗ █████╗ ██╗     
- ██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗      ██╔════╝ ║██║   ██║     ██║    ██║██╔══██╗██║     
- ███████╗███████║██║  ███╗███████║██████╔╝      ███████╗ ║██║   ██║     ██║ █╗ ██║███████║██║     
- ╚════██║██╔══██║██║   ██║██╔══██║██╔══██╗      ╚════██║ ║██║   ██║     ██║███╗██║██╔══██║██║     
- ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║      ███████║ ║██║   ███████╗╚███╔███╔╝██║  ██║███████╗
- ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ╚══════╝  ╚═╝   ╚══════╝ ╚══╡╚══╝ ╚═╝  ╚═╝╚══════╝
+ ███████╗ █████╗  ██████╗  █████╗ ██████╗       ███████╗ ║██╗ ██╗     ██╗    ██╗ █████╗ ██╗     
+ ██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗      ██╔════╝ ║██║ ██║     ██║    ██║██╔══██╗██║     
+ ███████╗███████║██║  ███╗███████║██████╔╝      ███████╗ ║██║ ██║     ██║ █╗ ██║███████║██║     
+ ╚════██║██╔══██║██║   ██║██╔══██║██╔══██╗      ╚════██║ ║██║ ██║     ██║███╗██║██╔══██║██║     
+ ███████║██║  ██║╚██████╔╝██║  ██║██║  ██║      ███████║ ║██║ ███████╗╚███╔███╔╝██║  ██║███████╗
+ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ╚══════╝  ╚═╝ ╚══════╝ ╚══╡╚══╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 # 👋 Welcome to My Digital Playground!
 
 
-I'm **Sagar Silwal**, a passionate **Full-Stack Developer** & **Creative Problem Solver** from **Kathmandu, Nepal** 🇳🇵
+I'm **Sagar Silwal**, a passionate **System & Network Engineer** & **FullStack Developer** from **Godawari-3, Lalitpur** 🇳🇵
 
 > *"Code is poetry written in logic, and bugs are just unexpected plot twists."*
 
@@ -20,7 +20,7 @@ I'm **Sagar Silwal**, a passionate **Full-Stack Developer** & **Creative Problem
 
 ```javascript
 const sagar = {
-  location: "Kathmandu, Nepal 📍",
+  location: "Godawari-03,Lalitpur, Nepal📍",
   passion: "Building elegant solutions to complex problems 💡",
   currentFocus: "Full-Stack Web Development & Open Source",
   favoriteQuote: "Make it work, make it right, make it fast ⚡",
@@ -43,9 +43,11 @@ const sagar = {
 ### 🔧 Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ### ☁️ Deployment & Services
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -55,13 +57,10 @@ const sagar = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silwalsagars4&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silwalsagars4&theme=radical&hide_border=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=silwalsagars4&show_icons=true&theme=radical&hide_border=true" alt="Sagar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwalsagars4&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
